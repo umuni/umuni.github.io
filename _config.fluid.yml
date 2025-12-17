@@ -1,0 +1,7 @@
+# 首页设置
+index:
+  # 首页大图中间的文字
+  slogan:
+    enable: true
+    # 这里填你想写的文字
+    text: "欢迎来到 aitest 技术博客"
